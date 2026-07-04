@@ -19,6 +19,13 @@
 
 2. Run:
    python translator.py
+## Project Screenshots
+
+### Main Interface
+![Screenshot](Screenshot 2026-07-04 142356.png)
+
+### Translation Output
+![Screenshot](Screenshot 2026-07-04 143447.png)
 
 ## Internship Project
 Developed as part of Horizon TechX Internship.
